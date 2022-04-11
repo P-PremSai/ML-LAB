@@ -23,3 +23,6 @@ def finds(c,t):
                     pass
     return specific_hypothesis 
 print("Final hypothesis is : ",finds(d,target))
+
+
+#
